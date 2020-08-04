@@ -1,9 +1,10 @@
 <h1>Hello World!!!</h1>
 <h4>Attempting MySQL connection from php...</h4>
 <?php
-$host = 'db';
-$user = 'root';
-$pass = '';
+// I assume that you've created a new username and password
+$host = 'mysql';
+$user = 'user';
+$pass = 'user';
 $conn = new mysqli($host, $user, $pass);
 
 if ($conn->connect_error) {

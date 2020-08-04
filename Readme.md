@@ -4,6 +4,6 @@ This is a start point to begin a docker-hosted development for a PHP Mysql appli
 
 
 ## For more information 
-[link text itself]:https://ayoubb.com
+[visit this post](https://ayoubb.com/technology/dockerize-apache-mysql-php-stack/)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

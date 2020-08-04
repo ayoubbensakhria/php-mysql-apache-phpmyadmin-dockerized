@@ -1,9 +1,9 @@
-<h1>Hello World!</h1>
+<h1>Hello World!!!</h1>
 <h4>Attempting MySQL connection from php...</h4>
 <?php
-$host = 'mysql';
+$host = 'db';
 $user = 'root';
-$pass = 'rootpassword';
+$pass = '';
 $conn = new mysqli($host, $user, $pass);
 
 if ($conn->connect_error) {

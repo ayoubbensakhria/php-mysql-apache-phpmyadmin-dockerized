@@ -1,13 +1,9 @@
-# Promed DELUXE
+# PHP MySQL Apache PHPMyAdmin Dockerized
 
-Promed DELUXE is a Hospital Management System developed in PHP using CodeIgniter Framework.
+This is a start point to begin a docker-hosted development for a PHP Mysql application.
 
 
-## Dev Stack
-- CodeIgniter Framework PHP
-- Database: MySQL
-- Server: Apache
-- DevOps: Docker, Git, Jenkins, GCP, Kubernetes, Ansible
-
+## For more information 
+[link text itself]:https://ayoubb.com
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
